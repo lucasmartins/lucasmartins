@@ -1,5 +1,7 @@
 ### Hi there 👋
-Test
+I'm actually on a break from work, but I'm always open to new opportunities.
+
+Ping me here or on [LinkedIn](https://www.linkedin.com/in/martinslucas/) if you need someone to build web applications or software engineering teams.
 
 <!--
 **lucasmartins/lucasmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm actually on a break from work, but I'm always open to new opportunities.
+I'm pushing the limits of the web platform as a fulltime hobby, but I'm always open for great job offers.
 
 Ping me here or on [LinkedIn](https://www.linkedin.com/in/martinslucas/) if you need someone to build web applications or software engineering teams.
 

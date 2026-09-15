@@ -10,6 +10,8 @@ Thanks to AI all my new projects are self-hosted.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martinslucas/).
 - 📝 I share some war stories on [Medium](https://medium.com/@lucasnmartins).
 - 🌲 You can find more stuff I did on [Linktree](https://linktr.ee/martinslucas)
+
+[Click here](https://lucasmartins.github.io/neon-drive/) for fun 🚗
 <!--
 🧿
 🗿
